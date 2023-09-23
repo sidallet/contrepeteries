@@ -1,4 +1,6 @@
 # Contrepèterie : l'Art de dé**c**aler les **s**ons !
+Projet tutoré de deuxième année d'IUT informatique.
+Objectif : en groupe de 4 et en méthode agile, ameliorer le travail d'un groupe précédent.
 * * *
 ## Application python sur console permettant la recherche de contrepèteries dans un mot et dans une phrase
 
@@ -51,7 +53,6 @@ https://sancy.iut-clermont.uca.fr/~lafourcade/contrepetries-regroupees/contrepet
 Si vous souhaitez lancer vous même le site, il vous suffit de lancer la page /contrepeterie/fr/presentation.html pour arriver à la page principale du site. 
 * * *
 Nos ajouts se trouvent sur les pages : 
-* * *
 "recherche sur phrase"
 
 "recherche sur les mots"
